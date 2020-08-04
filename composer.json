@@ -1,0 +1,13 @@
+{
+    "name": "zhanglinxia/servers",
+    "type": "project",
+    "require": {
+        "swoole/ide-helper": "^4.5"
+    },
+    "authors": [
+        {
+            "name": "zhanglinxia",
+            "email": "15215046877@163.com"
+        }
+    ]
+}
